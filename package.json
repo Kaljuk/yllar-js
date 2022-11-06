@@ -1,0 +1,9 @@
+{
+  "name": "yllar-js",
+  "version": "0.0.1",
+  "description": "Yllar leiutis",
+  "main": "pea.js",
+  "repository": "git@github.com:Kaljuk/yllar-js.git",
+  "author": "Yllar",
+  "license": "MIT"
+}
